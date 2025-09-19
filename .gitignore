@@ -82,8 +82,7 @@ Thumbs.db
 *.csv
 *.xlsx
 *.json
-data/
-datasets/
+*.png
 
 # Model files
 *.pkl
